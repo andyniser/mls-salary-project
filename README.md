@@ -1,6 +1,6 @@
 # MLS Analysis Project
-## By Andy Niser
-### Summer 2022
+By Andy Niser
+Summer 2022
 
 
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" alt="MLS Logo" style="height: 100px; width:100px;"/></center>
@@ -17,7 +17,7 @@ As an avid soccer fan, soccer referee, and frequent attendee of Nashville SC (an
 
 ### Goal of this Project
 
-Perform a detailed analysis and modelling of the dataset. I want to take an idea I have, plan its implementation, get data, work with it and bring the project to completion.
+Perform a detailed analysis and modelling of the dataset. I wanted to take an idea I had, plan its implementation, get data, work with it and bring the project to completion.
 
 ## Roadmap
 
